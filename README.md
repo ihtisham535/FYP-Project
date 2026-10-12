@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PharmaChain — Next.js + React (FYP)
 
 Decentralized pharmaceutical supply-chain & counterfeit-detection prototype, converted from the
@@ -49,3 +50,6 @@ pharmachain/
 ## Demo logins
 Choose a role on the "Select your workspace" screen; credentials are pre-filled (demo mode).
 Pharmacy staff demo emails: sana@medicare.demo · hassan@medicare.demo · omar@prime.demo
+=======
+# FYP-Project
+>>>>>>> ea22bc37a642439e58765765d70c9a58050029bb
